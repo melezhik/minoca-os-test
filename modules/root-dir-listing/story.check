@@ -1,4 +1,4 @@
-begin:
+between: start end
 bin
 dev
 etc
@@ -9,4 +9,4 @@ root
 tmp
 usr
 var
-end:
+
