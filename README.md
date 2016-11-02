@@ -1,6 +1,7 @@
 # SYNOPSIS
 
-Run some tests against running [Minoca OS](https://github.com/minoca/os)
+
+Run system tests against running [Minoca OS](https://github.com/minoca/os)
 
 
 # INSTALL
