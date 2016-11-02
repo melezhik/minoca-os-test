@@ -1,7 +1,6 @@
 # SYNOPSIS
 
-Run some tests against running Minoca OS
-
+Run some tests against running [Minoca OS](https://github.com/minoca/os)
 
 
 # INSTALL
@@ -22,5 +21,21 @@ Install minoca-os-test plugin
     $ sparrow plg install minoc-os-test
 
 
+# USAGE
+
+Just run minoc-os-test plugin:
+
+
+    $ sparrow plg run minoc-os-test
+
+# See also
+
+* [Sparrow](https://github.com/melezhik/sparrow)
+* [Minoca OS](https://github.com/minoca/os)
+
+
+# Author
+
+[Alexey Melezhik](mailto:melezhik@gmail.com)    
 
 
