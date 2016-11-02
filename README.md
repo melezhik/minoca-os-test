@@ -22,7 +22,7 @@ Install minoca-os-test plugin
 
     $ sparrow plg install minoc-os-test
 
-
+![minoca-os-test report](https://raw.githubusercontent.com/melezhik/minoca-os-test/master/minoca-os-test.png)
 # USAGE
 
 Just run minoc-os-test plugin:
