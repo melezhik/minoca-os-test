@@ -5,6 +5,7 @@ Run some tests against running [Minoca OS](https://github.com/minoca/os)
 
 # INSTALL
 
+***NOTE:*** Installation and test run should be taken on server under Minoca OS.
 
 Install Sparrow tool
 
