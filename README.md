@@ -30,6 +30,18 @@ Just run minoc-os-test plugin:
 
     $ sparrow plg run minoc-os-test
 
+# Parameters
+
+## test
+
+Runs a single test.
+
+    $ sparrow plg run minoc-os-test --param test=opkg-install-curl
+
+To print out a test list instead of running tests:
+
+    $ sparrow plg run minoc-os-test --param test=show-test-list
+
 # See also
 
 * [Sparrow](https://github.com/melezhik/sparrow)
