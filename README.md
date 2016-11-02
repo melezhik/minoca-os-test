@@ -1,6 +1,6 @@
 # SYNOPSIS
 
-Run some tests against running Minoca system
+Run some tests against running Minoca OS
 
 
 
@@ -10,7 +10,7 @@ Run some tests against running Minoca system
 Install Sparrow tool
 
     $ opkg update
-    $ opkg install perl curl gcc make 
+    $ opkg install perl curl bash gcc make 
     $ ln -s /bin/env /usr/bin/env
     $ curl -L -k http://cpanmin.us -o /usr/bin/cpanm && chmod +x /usr/bin/cpanm
     $ cpanm --notest -q Sparrow
